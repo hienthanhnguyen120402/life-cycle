@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LifeCycle</string>
+    <string name="lifecycle">LifeCycle</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="i_agree_to_terms_of_use">I agree to Terms of Use</string>
+    <string name="birthday">Birthday</string>
+    <string name="address">Address</string>
+</resources>
